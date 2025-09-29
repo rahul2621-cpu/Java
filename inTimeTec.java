@@ -11,7 +11,7 @@ class VowelProcessor {
         while (i < str.length()) {
             char current = str.charAt(i);
 
-            // If current is a vowel
+            // If current is 
             if (isVowel(current)) {
 
                 // Check if next character is also a vowel
@@ -55,4 +55,5 @@ public class inTimeTec {
         System.out.println("Processed String: " + processed);
     }
 }
+//THis is extra
 
